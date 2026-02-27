@@ -26,3 +26,6 @@
 #https://github.com/Shehma0117/GitWorkshop.git
 #Creating an 'empty' main branch on GitHub and link the local main branch to it > recommended to keep the same names;
 #using the 'new branch' in the right top console > add remote > paste the HTTPS link > name the remote origin > Branch name: main ; remote: origin ; sync branch with remote > create > overwrite
+
+
+new line
