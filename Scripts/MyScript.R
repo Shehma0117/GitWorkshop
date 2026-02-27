@@ -20,3 +20,5 @@
 # M (Blue): The file has been modified since the last commit.
 # D (Red): The file has been deleted from the project.
 # R (Purple) : Renamed
+
+#Adding a line to check
