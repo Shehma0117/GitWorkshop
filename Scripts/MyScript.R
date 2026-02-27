@@ -1,4 +1,3 @@
-#Shehma Ahmad
 #February 27, 2026
 #File created, staged (ready to commit), committed
 #A = Added
@@ -24,7 +23,6 @@
 #Adding a line to check
 ##snfkadsbfklabsd
 
-library(tidyverse)
-
-kjkbb
-kfgblakfb
+#https://github.com/Shehma0117/GitWorkshop.git
+#Creating an 'empty' main branch on GitHub and link the local main branch to it > recommended to keep the same names;
+#using the 'new branch' in the right top console > add remote > paste the HTTPS link > name the remote origin > Branch name: main ; remote: origin ; sync branch with remote > create > overwrite
